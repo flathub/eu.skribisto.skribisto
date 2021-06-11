@@ -5,6 +5,7 @@ sdk: org.kde.Sdk
 command: skribisto
 finish-args:
   - --share=ipc
+  - --share=network
   - --socket=fallback-x11
   - --socket=wayland
   - --filesystem=home
@@ -33,5 +34,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/jacquetc/skribisto.git
-        tag: v1.9.20
-        commit: c5ac4ea72acb7958efd51c6a85e5efdae2d3b37e
+        tag: v1.9.22
+        commit: c0a847dc8c6f28016962fcbf0aac9466406ad072
