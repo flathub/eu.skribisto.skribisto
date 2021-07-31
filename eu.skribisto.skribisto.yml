@@ -8,7 +8,7 @@ finish-args:
   - --share=network
   - --socket=fallback-x11
   - --socket=wayland
-  - --socket=session-dbus
+  - --socket=session-bus
   - --filesystem=home
   - --device=dri
 separate-locales: false
