@@ -10,6 +10,8 @@ finish-args:
   - --socket=wayland
   - --filesystem=home
   - --device=dri
+  - --own-name=com.druide.antidote.*
+  - --talk-name=org.freedesktop.Flatpak
 separate-locales: false
 modules:
         
@@ -34,5 +36,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/jacquetc/skribisto.git
-        tag: v1.9.26
-        commit: c3ea09dc8b786c86c7e16b4697626833ec6de77d
+        tag: v1.9.27
+        commit: f968e95ca8e5871c3908c961cb146772ccd784f4
