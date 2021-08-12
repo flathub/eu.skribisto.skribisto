@@ -36,5 +36,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/jacquetc/skribisto.git
-        tag: v1.9.28
-        commit: c7fd0c6615c0eabebeeefb25ead5478414a8d932
+        tag: v1.9.29
+        commit: de88e57783a57c1498ef56ca15e43840b6baeeac
