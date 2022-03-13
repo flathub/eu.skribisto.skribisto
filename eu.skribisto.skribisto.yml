@@ -1,13 +1,12 @@
 app-id: eu.skribisto.skribisto
 runtime: org.kde.Platform
-runtime-version: '5.15'
+runtime-version: '6.2'
 sdk: org.kde.Sdk
 command: skribisto
 finish-args:
   - --share=ipc
   - --share=network
   - --socket=fallback-x11
-  - --socket=wayland
   - --filesystem=home
   - --device=dri
   - --own-name=com.druide.antidote.*
@@ -15,19 +14,6 @@ finish-args:
 separate-locales: false
 modules:
         
-  - name: quazip
-    buildsystem: cmake-ninja
-    builddir: true
-    config-opts:
-      - -DCMAKE_BUILD_TYPE=MinSizeRel
-    sources:
-      - type: archive
-        url: https://github.com/stachenov/quazip/archive/v1.1.tar.gz
-        sha256: 54edce9c11371762bd4f0003c2937b5d8806a2752dd9c0fd9085e90792612ad0
-      - type: shell
-        commands:
-          - sed -i 's|${CMAKE_ROOT}/Modules|share/cmake|' CMakeLists.txt
-
   - name: skribisto
     buildsystem: cmake-ninja
     builddir: true
@@ -36,5 +22,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/jacquetc/skribisto.git
-        tag: v1.9.31
-        commit: 5b82f3b29702091b287970594c0269a368be1b1f
+        tag: v1.9.32
+        commit: e6555e55ad55ef045ff316891031ed91e8a122c9
