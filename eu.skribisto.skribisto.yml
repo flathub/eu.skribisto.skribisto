@@ -13,7 +13,6 @@ finish-args:
   - --talk-name=org.freedesktop.Flatpak
 separate-locales: false
 modules:
-        
   - name: skribisto
     buildsystem: cmake-ninja
     builddir: true
@@ -22,8 +21,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/jacquetc/skribisto.git
-        tag: v1.9.35
-        commit: 0a2951e2888d6809920ce3ea740612041dd89cfa
+        tag: v1.9.36
+        commit: 2a8c46ec574e8b869fb964516aac33053e46f588
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+)
