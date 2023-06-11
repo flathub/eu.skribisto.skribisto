@@ -12,7 +12,7 @@ finish-args:
   - --own-name=com.druide.antidote.*
   - --talk-name=org.freedesktop.Flatpak
 separate-locales: false
-modules:
+modules: 
   - name: skribisto
     buildsystem: cmake-ninja
     builddir: true
