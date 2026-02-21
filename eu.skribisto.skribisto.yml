@@ -2,7 +2,7 @@ app-id: eu.skribisto.skribisto
 runtime: org.kde.Platform
 runtime-version: '6.10'
 sdk: org.kde.Sdk
-command: skribisto
+command: SkribistoDesktop
 finish-args:
   - --share=ipc
   - --share=network
@@ -13,13 +13,13 @@ finish-args:
   - --own-name=com.druide.antidote.*
   - --talk-name=org.freedesktop.Flatpak
 separate-locales: false
-modules:
+modules: 
   - name: skribisto
     buildsystem: cmake-ninja
     builddir: true
     config-opts:
       - -DCMAKE_BUILD_TYPE=RelWithDebInfo
-    sources:
+    sources: 
       - type: git
         url: https://github.com/jacquetc/skribisto.git
         tag: v1.9.43
