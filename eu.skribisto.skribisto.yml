@@ -23,7 +23,7 @@ modules:
       - type: git
         url: https://github.com/jacquetc/skribisto.git
         tag: v1.9.43
-        commit: ea08cb3a0a8ff8ab3a1b1c317adb5789ba8e88b7
+        commit: 3ac8f4136969f1fccdaf83d22324f7bde81baf04
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+)
