@@ -13,17 +13,17 @@ finish-args:
   - --own-name=com.druide.antidote.*
   - --talk-name=org.freedesktop.Flatpak
 separate-locales: false
-modules: 
+modules:
   - name: skribisto
     buildsystem: cmake-ninja
     builddir: true
     config-opts:
       - -DCMAKE_BUILD_TYPE=RelWithDebInfo
-    sources: 
+    sources:
       - type: git
         url: https://github.com/jacquetc/skribisto.git
-        tag: v1.9.43
-        commit: 58a73b994305a5b57d4d8fccfeac21f37ea2a1f5
+        tag: v2.0.7
+        commit: 3d8de9589a18eb943ba20cd645b7a24f832b3bec
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+)
