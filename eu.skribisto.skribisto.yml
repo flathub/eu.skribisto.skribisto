@@ -27,3 +27,4 @@ modules:
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+)
+          versions: {<: '2.0'}
