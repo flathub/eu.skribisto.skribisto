@@ -7646,313 +7646,313 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo/teksilo-0.10.0.crate",
-        "sha256": "53254cc3b6189be130b0f92458450e426a74aa7c26f912bcde4e0f188ba88706",
-        "dest": "cargo/vendor/teksilo-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo/teksilo-0.12.0.crate",
+        "sha256": "1385ff4d0069de9be3ab3ca7d02e46deb56d748953e3c3a1be3e541d3feeca27",
+        "dest": "cargo/vendor/teksilo-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"53254cc3b6189be130b0f92458450e426a74aa7c26f912bcde4e0f188ba88706\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-0.10.0",
+        "contents": "{\"package\": \"1385ff4d0069de9be3ab3ca7d02e46deb56d748953e3c3a1be3e541d3feeca27\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo-app/teksilo-app-0.10.0.crate",
-        "sha256": "11e8fec2fa25f3c14fdd290f634382e592b62a1473193b6e4d8bda2e60ad9037",
-        "dest": "cargo/vendor/teksilo-app-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo-app/teksilo-app-0.12.0.crate",
+        "sha256": "e6e3bb6b42ff225377e850cc5f77d545e92f4efed3664d4a48f4ce59df616c9c",
+        "dest": "cargo/vendor/teksilo-app-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"11e8fec2fa25f3c14fdd290f634382e592b62a1473193b6e4d8bda2e60ad9037\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-app-0.10.0",
+        "contents": "{\"package\": \"e6e3bb6b42ff225377e850cc5f77d545e92f4efed3664d4a48f4ce59df616c9c\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-app-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo-async/teksilo-async-0.10.0.crate",
-        "sha256": "a6b8e56d4f3b17b90da59440908d33a88e11f29462bb4ae2fb48eb45f352d40c",
-        "dest": "cargo/vendor/teksilo-async-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo-async/teksilo-async-0.12.0.crate",
+        "sha256": "5b97612fb60ad62faf2010e1499ec920b722e5ec118f3084e2412b3a15923fb1",
+        "dest": "cargo/vendor/teksilo-async-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"a6b8e56d4f3b17b90da59440908d33a88e11f29462bb4ae2fb48eb45f352d40c\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-async-0.10.0",
+        "contents": "{\"package\": \"5b97612fb60ad62faf2010e1499ec920b722e5ec118f3084e2412b3a15923fb1\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-async-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo-async-std/teksilo-async-std-0.10.0.crate",
-        "sha256": "e0acab73139cb6a0468c4c031fd18917227ee3b9ca57a97cf7e6d81398ad1717",
-        "dest": "cargo/vendor/teksilo-async-std-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo-async-std/teksilo-async-std-0.12.0.crate",
+        "sha256": "ad0c8d5a06f914fc6e3ddc55c7d142f94a8db737c0dcc3c5c5bec0869ac280d5",
+        "dest": "cargo/vendor/teksilo-async-std-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"e0acab73139cb6a0468c4c031fd18917227ee3b9ca57a97cf7e6d81398ad1717\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-async-std-0.10.0",
+        "contents": "{\"package\": \"ad0c8d5a06f914fc6e3ddc55c7d142f94a8db737c0dcc3c5c5bec0869ac280d5\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-async-std-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo-automation/teksilo-automation-0.10.0.crate",
-        "sha256": "1e7ddda12eee3f956e758bd2353cba76ea301ec5f43cd8da4f507cb81a8e8113",
-        "dest": "cargo/vendor/teksilo-automation-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo-automation/teksilo-automation-0.12.0.crate",
+        "sha256": "86331ebd72d1b5725290a2c71a4ddb1189ddebfa1404d075a6ade2c53dfdb5c9",
+        "dest": "cargo/vendor/teksilo-automation-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"1e7ddda12eee3f956e758bd2353cba76ea301ec5f43cd8da4f507cb81a8e8113\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-automation-0.10.0",
+        "contents": "{\"package\": \"86331ebd72d1b5725290a2c71a4ddb1189ddebfa1404d075a6ade2c53dfdb5c9\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-automation-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo-canvas/teksilo-canvas-0.10.0.crate",
-        "sha256": "332b48584c6132b149f709ff600a2b4aba058c55f84195f372036d5d5a141029",
-        "dest": "cargo/vendor/teksilo-canvas-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo-canvas/teksilo-canvas-0.12.0.crate",
+        "sha256": "98c169a39837a7e3f4088805eb81a49486ed1a5ffb4f04774349e5548291639a",
+        "dest": "cargo/vendor/teksilo-canvas-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"332b48584c6132b149f709ff600a2b4aba058c55f84195f372036d5d5a141029\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-canvas-0.10.0",
+        "contents": "{\"package\": \"98c169a39837a7e3f4088805eb81a49486ed1a5ffb4f04774349e5548291639a\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-canvas-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo-charts/teksilo-charts-0.10.0.crate",
-        "sha256": "75efe7470be35651d22e063d6513190a6fa86b1921150726e2d372b7308cae85",
-        "dest": "cargo/vendor/teksilo-charts-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo-charts/teksilo-charts-0.12.0.crate",
+        "sha256": "cfa9cd0be9aedda8e95b98003f63befb4a38768972615749062d488c6158c182",
+        "dest": "cargo/vendor/teksilo-charts-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"75efe7470be35651d22e063d6513190a6fa86b1921150726e2d372b7308cae85\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-charts-0.10.0",
+        "contents": "{\"package\": \"cfa9cd0be9aedda8e95b98003f63befb4a38768972615749062d488c6158c182\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-charts-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo-core/teksilo-core-0.10.0.crate",
-        "sha256": "82d408fc020cc05b6ab8bb38618207748656263cee2459d688c2f5d0cd6ed6f6",
-        "dest": "cargo/vendor/teksilo-core-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo-core/teksilo-core-0.12.0.crate",
+        "sha256": "e309bf708da1d9afadfe33b3f9ea761ee8a5c93e10a31dc04dd5a44289628c5a",
+        "dest": "cargo/vendor/teksilo-core-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"82d408fc020cc05b6ab8bb38618207748656263cee2459d688c2f5d0cd6ed6f6\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-core-0.10.0",
+        "contents": "{\"package\": \"e309bf708da1d9afadfe33b3f9ea761ee8a5c93e10a31dc04dd5a44289628c5a\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-core-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo-data/teksilo-data-0.10.0.crate",
-        "sha256": "36ce8bc33f0a8c2db7dfcd4eb8432bef449a9031488ed2c9bf575b735d964cd4",
-        "dest": "cargo/vendor/teksilo-data-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo-data/teksilo-data-0.12.0.crate",
+        "sha256": "0d59fb54f38dc0e9a0b9fccf988e49a875a82e4801ba2ace1c8389f49ce6acfb",
+        "dest": "cargo/vendor/teksilo-data-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"36ce8bc33f0a8c2db7dfcd4eb8432bef449a9031488ed2c9bf575b735d964cd4\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-data-0.10.0",
+        "contents": "{\"package\": \"0d59fb54f38dc0e9a0b9fccf988e49a875a82e4801ba2ace1c8389f49ce6acfb\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-data-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo-i18n/teksilo-i18n-0.10.0.crate",
-        "sha256": "da1ce32767b5e76b69737a7b009e4faf70b0d331099e98d315dc654dfebcac9c",
-        "dest": "cargo/vendor/teksilo-i18n-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo-i18n/teksilo-i18n-0.12.0.crate",
+        "sha256": "62c1145da689ea48cddc383869827e2a7a317f098e5126ade6af20666ce8cc05",
+        "dest": "cargo/vendor/teksilo-i18n-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"da1ce32767b5e76b69737a7b009e4faf70b0d331099e98d315dc654dfebcac9c\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-i18n-0.10.0",
+        "contents": "{\"package\": \"62c1145da689ea48cddc383869827e2a7a317f098e5126ade6af20666ce8cc05\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-i18n-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo-i18n-macros/teksilo-i18n-macros-0.10.0.crate",
-        "sha256": "c95ad890561bfce33a8db565d12236e42242210f086decd28c0b4ce8074da7ce",
-        "dest": "cargo/vendor/teksilo-i18n-macros-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo-i18n-macros/teksilo-i18n-macros-0.12.0.crate",
+        "sha256": "b9731551b8514e3388d5ab0564eec71a36b05dcd88bf0a32f70c5ab269921737",
+        "dest": "cargo/vendor/teksilo-i18n-macros-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"c95ad890561bfce33a8db565d12236e42242210f086decd28c0b4ce8074da7ce\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-i18n-macros-0.10.0",
+        "contents": "{\"package\": \"b9731551b8514e3388d5ab0564eec71a36b05dcd88bf0a32f70c5ab269921737\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-i18n-macros-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo-inspector/teksilo-inspector-0.10.0.crate",
-        "sha256": "ddfd730324eeccf2a20ea33376adc42a07c95918aa0628d493950f1aea37194c",
-        "dest": "cargo/vendor/teksilo-inspector-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo-inspector/teksilo-inspector-0.12.0.crate",
+        "sha256": "ebf7f4de8c12364201fc7f7f5052b5801233bac4c2bee8cabbd0151ddc4e1c40",
+        "dest": "cargo/vendor/teksilo-inspector-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"ddfd730324eeccf2a20ea33376adc42a07c95918aa0628d493950f1aea37194c\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-inspector-0.10.0",
+        "contents": "{\"package\": \"ebf7f4de8c12364201fc7f7f5052b5801233bac4c2bee8cabbd0151ddc4e1c40\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-inspector-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo-macros/teksilo-macros-0.10.0.crate",
-        "sha256": "145f20fb23a05054bf35834ea05d5fc0e00163f684e7c1a21a956f687d341fa0",
-        "dest": "cargo/vendor/teksilo-macros-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo-macros/teksilo-macros-0.12.0.crate",
+        "sha256": "9b474fe65667f0f81a212b4e9ad1f5079f5b3b034c76869ffa6b2a300d075f44",
+        "dest": "cargo/vendor/teksilo-macros-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"145f20fb23a05054bf35834ea05d5fc0e00163f684e7c1a21a956f687d341fa0\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-macros-0.10.0",
+        "contents": "{\"package\": \"9b474fe65667f0f81a212b4e9ad1f5079f5b3b034c76869ffa6b2a300d075f44\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-macros-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo-parse/teksilo-parse-0.10.0.crate",
-        "sha256": "81bcdec43f5e4cf5d9ab1f2b585eb05ee5b142734db11971fa7474b2f1fdc17d",
-        "dest": "cargo/vendor/teksilo-parse-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo-parse/teksilo-parse-0.12.0.crate",
+        "sha256": "d1076e8daaea438ddd87aba8d9ed146187bb09b1d8f642de139ec8683943d982",
+        "dest": "cargo/vendor/teksilo-parse-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"81bcdec43f5e4cf5d9ab1f2b585eb05ee5b142734db11971fa7474b2f1fdc17d\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-parse-0.10.0",
+        "contents": "{\"package\": \"d1076e8daaea438ddd87aba8d9ed146187bb09b1d8f642de139ec8683943d982\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-parse-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo-platform/teksilo-platform-0.10.0.crate",
-        "sha256": "6f286afb551d92d744e9090c1ddcb2c4d9610336dcbe62ba65a7e1a817935b05",
-        "dest": "cargo/vendor/teksilo-platform-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo-platform/teksilo-platform-0.12.0.crate",
+        "sha256": "c2587cfc611de443764743c7f1fc41bf08f5fec8d54d6f8f4c6afa4e8fb62d0b",
+        "dest": "cargo/vendor/teksilo-platform-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"6f286afb551d92d744e9090c1ddcb2c4d9610336dcbe62ba65a7e1a817935b05\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-platform-0.10.0",
+        "contents": "{\"package\": \"c2587cfc611de443764743c7f1fc41bf08f5fec8d54d6f8f4c6afa4e8fb62d0b\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-platform-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo-render/teksilo-render-0.10.0.crate",
-        "sha256": "6409c7a4278dab01b909607c70c9a6516945e819994d48108472980c0255299b",
-        "dest": "cargo/vendor/teksilo-render-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo-render/teksilo-render-0.12.0.crate",
+        "sha256": "c0de6abe2297aa43387e31694d55a0b2cd010cc08b60121d1a1a71182cb637b1",
+        "dest": "cargo/vendor/teksilo-render-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"6409c7a4278dab01b909607c70c9a6516945e819994d48108472980c0255299b\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-render-0.10.0",
+        "contents": "{\"package\": \"c0de6abe2297aa43387e31694d55a0b2cd010cc08b60121d1a1a71182cb637b1\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-render-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo-resources/teksilo-resources-0.10.0.crate",
-        "sha256": "e8a8d3dde21516f7b7d933da5b6d028c5da53ea01d328d213d2f182143735709",
-        "dest": "cargo/vendor/teksilo-resources-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo-resources/teksilo-resources-0.12.0.crate",
+        "sha256": "3376ef1e945727f90ad1baac8b9e109fffd3fa9a6158b79045eee8a8d86e81e3",
+        "dest": "cargo/vendor/teksilo-resources-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"e8a8d3dde21516f7b7d933da5b6d028c5da53ea01d328d213d2f182143735709\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-resources-0.10.0",
+        "contents": "{\"package\": \"3376ef1e945727f90ad1baac8b9e109fffd3fa9a6158b79045eee8a8d86e81e3\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-resources-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo-settings/teksilo-settings-0.10.0.crate",
-        "sha256": "a04dedfadaa6441be5cebd0f9d4703ba245088ba6e9b9e227cbbc46046529100",
-        "dest": "cargo/vendor/teksilo-settings-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo-settings/teksilo-settings-0.12.0.crate",
+        "sha256": "d34aac50d1f636eac6e16c8e19600a4ea51b397eb8145d196c72645e6ac038c8",
+        "dest": "cargo/vendor/teksilo-settings-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"a04dedfadaa6441be5cebd0f9d4703ba245088ba6e9b9e227cbbc46046529100\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-settings-0.10.0",
+        "contents": "{\"package\": \"d34aac50d1f636eac6e16c8e19600a4ea51b397eb8145d196c72645e6ac038c8\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-settings-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo-text/teksilo-text-0.10.0.crate",
-        "sha256": "a5e17346e5c1c2ecc73ace084c7a14c57d17e90d78f58e162b8c38b5bfc8706b",
-        "dest": "cargo/vendor/teksilo-text-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo-text/teksilo-text-0.12.0.crate",
+        "sha256": "3a243baa5aff461e0fc54ee6a074a47f47c406e588f4074b61a2fde8a72e37b5",
+        "dest": "cargo/vendor/teksilo-text-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"a5e17346e5c1c2ecc73ace084c7a14c57d17e90d78f58e162b8c38b5bfc8706b\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-text-0.10.0",
+        "contents": "{\"package\": \"3a243baa5aff461e0fc54ee6a074a47f47c406e588f4074b61a2fde8a72e37b5\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-text-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo-theme-fluent/teksilo-theme-fluent-0.10.0.crate",
-        "sha256": "2ad9a2b435179bcf6aa3bec7c9a9eeba64cd515bc7e0fd5309f9007a3ef0d165",
-        "dest": "cargo/vendor/teksilo-theme-fluent-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo-theme-fluent/teksilo-theme-fluent-0.12.0.crate",
+        "sha256": "ace384b35d616624196de189d49c14fae2fdfff436277c125c772c121ee9dd74",
+        "dest": "cargo/vendor/teksilo-theme-fluent-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"2ad9a2b435179bcf6aa3bec7c9a9eeba64cd515bc7e0fd5309f9007a3ef0d165\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-theme-fluent-0.10.0",
+        "contents": "{\"package\": \"ace384b35d616624196de189d49c14fae2fdfff436277c125c772c121ee9dd74\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-theme-fluent-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo-theme-macos/teksilo-theme-macos-0.10.0.crate",
-        "sha256": "305270f740be2fc32d078ebb9657fc5a10687c37bde09e8c33a2b613e0622b38",
-        "dest": "cargo/vendor/teksilo-theme-macos-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo-theme-macos/teksilo-theme-macos-0.12.0.crate",
+        "sha256": "c5e7c5a56151f0bf57651bfadfc616c4e6fdfff8e886d7b7bf4b174316911078",
+        "dest": "cargo/vendor/teksilo-theme-macos-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"305270f740be2fc32d078ebb9657fc5a10687c37bde09e8c33a2b613e0622b38\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-theme-macos-0.10.0",
+        "contents": "{\"package\": \"c5e7c5a56151f0bf57651bfadfc616c4e6fdfff8e886d7b7bf4b174316911078\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-theme-macos-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo-theme-material3/teksilo-theme-material3-0.10.0.crate",
-        "sha256": "bdd8cd755f574b3198bf6a8e429e338292b271c2dcac78d9c1aaf06aeab2b21f",
-        "dest": "cargo/vendor/teksilo-theme-material3-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo-theme-material3/teksilo-theme-material3-0.12.0.crate",
+        "sha256": "a6bf4b512f6e829ac09650294fc745e506851b5c9027b7c45ef3295150f6c4ef",
+        "dest": "cargo/vendor/teksilo-theme-material3-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"bdd8cd755f574b3198bf6a8e429e338292b271c2dcac78d9c1aaf06aeab2b21f\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-theme-material3-0.10.0",
+        "contents": "{\"package\": \"a6bf4b512f6e829ac09650294fc745e506851b5c9027b7c45ef3295150f6c4ef\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-theme-material3-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo-tokens/teksilo-tokens-0.10.0.crate",
-        "sha256": "b1347bd92a4f73600a318d8434bb44168a23f9388a2531f3d6b6dcb76dbf4fe4",
-        "dest": "cargo/vendor/teksilo-tokens-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo-tokens/teksilo-tokens-0.12.0.crate",
+        "sha256": "db3d8d6496b0db1a72d484cefeed4a8264c2f4c5d2e2294e99ff7a200d08275c",
+        "dest": "cargo/vendor/teksilo-tokens-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"b1347bd92a4f73600a318d8434bb44168a23f9388a2531f3d6b6dcb76dbf4fe4\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-tokens-0.10.0",
+        "contents": "{\"package\": \"db3d8d6496b0db1a72d484cefeed4a8264c2f4c5d2e2294e99ff7a200d08275c\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-tokens-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/teksilo-widgets/teksilo-widgets-0.10.0.crate",
-        "sha256": "a46e2a533555f58d1ed683144f3f9ad6b79f7811fd1962ae6dd908780e2b0dc9",
-        "dest": "cargo/vendor/teksilo-widgets-0.10.0"
+        "url": "https://static.crates.io/crates/teksilo-widgets/teksilo-widgets-0.12.0.crate",
+        "sha256": "2a1d33cd1f4a976451b1f110dd00e403eecd985f049761bb9842605bfbbaf10e",
+        "dest": "cargo/vendor/teksilo-widgets-0.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"a46e2a533555f58d1ed683144f3f9ad6b79f7811fd1962ae6dd908780e2b0dc9\", \"files\": {}}",
-        "dest": "cargo/vendor/teksilo-widgets-0.10.0",
+        "contents": "{\"package\": \"2a1d33cd1f4a976451b1f110dd00e403eecd985f049761bb9842605bfbbaf10e\", \"files\": {}}",
+        "dest": "cargo/vendor/teksilo-widgets-0.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
