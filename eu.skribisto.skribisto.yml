@@ -91,8 +91,8 @@ modules:
       #   git rev-list -n1 v3.0.0
       - type: git
         url: https://github.com/jacquetc/skribisto.git
-        tag: v3.2.0
-        commit: "82821adcb032e3a3b464a71967a05e5fd835c07e"
+        tag: v3.2.1
+        commit: "53dfeab70299674df42eabe3893ae0683c6cdb3a"
         x-checker-data:
           type: git
           # Anchored with $ on purpose. The old pattern had no anchor, so a
