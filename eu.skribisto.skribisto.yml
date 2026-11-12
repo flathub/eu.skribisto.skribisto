@@ -5,7 +5,8 @@
 # through a `type: dir` source, which is right for CI and local builds and cannot
 # work here: Flathub builds this repository, so `../..` would resolve to the
 # parent of THIS checkout, and Flathub does not host application source anyway.
-# The two differ in their sources and in nothing else.
+# The two differ in their sources and in the SKRIBISTO_CHANNEL value, and in
+# nothing else.
 #
 # Keeping them in step is a real obligation. Whenever the build commands change
 # upstream, they change here too.
@@ -57,6 +58,14 @@ modules:
       env:
         CARGO_HOME: /run/build/skribisto/cargo
         CARGO_NET_OFFLINE: "true"
+        # How this copy was installed, stamped at build time by build.rs. A
+        # Flathub install is kept current by the software centre, so the
+        # application offers no update check of its own, and its About box says
+        # that Flathub keeps it up to date. Without this line the build reads as
+        # built from source, which shows a manual update check instead. The
+        # upstream manifest sets `flatpak-bundle` here, for the .flatpak attached
+        # to a GitHub release. See crates/teksilo_ui/src/updates/channel.rs.
+        SKRIBISTO_CHANNEL: flathub
     build-commands:
       - cargo --offline build --release -p teksilo_ui --features pdf
       - install -Dm755 target/release/skribisto /app/bin/skribisto
